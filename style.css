@@ -1,15 +1,14 @@
 .imagem-cadeado{
     display: block;
-    margin: 0 auto 20px auto;
-    width: 300px;
+    margin: 0 auto 20px;
+    width: 350px;
     max-width: 100%;
     height: auto;
 }
-
 :root{
     --branco: white;
     --cor-de-fundo: #fffb00;
-    --fundo-senha: #01c91b;
+    --fundo-senha: #039ece;
     --fundo-texto: #001E40;
     --borda: #001aff;
     --roboto: 'Roboto', sans-serif;
