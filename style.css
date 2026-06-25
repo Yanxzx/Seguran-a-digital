@@ -1,11 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+.imagem-cadeado{
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+}
 
 :root{
     --branco: white;
-    --cor-de-fundo: #3a96d3;
-    --fundo-senha: #87CEFA;
+    --cor-de-fundo: #fffb00;
+    --fundo-senha: #01c91b;
     --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --borda: #001aff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
